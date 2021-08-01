@@ -1,6 +1,9 @@
 name: Docker
 
 on:
+  # manually run
+  workflow_dispatch:
+
   push:
     # Publish `main` as Docker `latest` image.
     branches:
