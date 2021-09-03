@@ -12,7 +12,7 @@ docker run -d --name nmrih-server \
 
 Credits to https://github.com/foxylion/docker-steam-css where I mostly copied the Dockerfile.
 
-## Development
+## Development 
 
 Build Image:
 
