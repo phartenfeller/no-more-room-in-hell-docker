@@ -22,7 +22,6 @@ env:
 jobs:
   push:
     runs-on: ubuntu-latest
-    if: github.event_name == 'push'
 
     steps:
       - name: Check out the repo
